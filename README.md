@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="200" height="200" src ="https://github.com/PanMykhailo/PanMykhailo/assets/108936497/84a62ec7-e9aa-4b17-a197-ba240847eee3" alt="my banner">
+<img width="1920" height="200" src ="https://github.com/PanMykhailo/PanMykhailo/assets/108936497/84a62ec7-e9aa-4b17-a197-ba240847eee3" alt="my banner">
 
 </p>
 
